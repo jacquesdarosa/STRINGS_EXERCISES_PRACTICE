@@ -2,8 +2,6 @@
 
 # task 3
 
-from re import I
-
 
 '''City = 'london'
 population = 9000000
@@ -17,3 +15,4 @@ print("Population", ":", population)'''
 city, population = 'london', '9000000'
 print('City', ':', city.capitalize(), '(',(city.isalpha()),')')
 print('Population',':', population)
+
