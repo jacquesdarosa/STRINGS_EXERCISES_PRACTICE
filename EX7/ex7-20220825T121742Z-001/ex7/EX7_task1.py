@@ -1,5 +1,5 @@
 # task 1
-import re
+
 s = input('enter string: ')
 '''new_string = ""
 
